@@ -1,0 +1,2 @@
+class Natal < ApplicationRecord
+end
